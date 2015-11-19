@@ -1,0 +1,1 @@
+﻿New-NetFirewallRule -Program "C:\tests\fabrikamproject\fabrikamfiber.callcenter\fabrikamfiber.web.pureseleniumtests\bin\debug\iedriverserver.exe" -Action Allow -Profile Domain -DisplayName “IE Driver” -Description “IE Driver” -Direction Inbound # Executable when the path is known

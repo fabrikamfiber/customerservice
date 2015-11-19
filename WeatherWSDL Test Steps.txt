@@ -1,0 +1,6 @@
+1) In Web.Tests, Add Service Reference
+2) Enter local path of Weather-Outage.wsdl and Go
+3) Give a unique namespace name for generating C# code artefacts
+4) Add Unit Test Class and add reference to namespace created above
+5) Instantiate soap Client by passing the "name" attribute from App.Config for BasicHTTPBinding
+6) Flesh out unit tests

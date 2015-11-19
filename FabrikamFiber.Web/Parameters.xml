@@ -1,0 +1,13 @@
+﻿<!--?xml version="1.0" encoding="utf-8" ?-->
+<parameters>
+  <parameter name="IIS Web Application Name" defaultValue="Default Web Site/Fabrikam" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\agent1\\newwork\\1165662a\\AzureProj\\Fabrikam\.CallCenter\.New\\FabrikamFiber\.Web\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\agent1\\newwork\\1165662a\\AzureProj\\Fabrikam\.CallCenter\.New\\FabrikamFiber\.Web\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="FabrikamFiber-Express-Web.config Connection String" description="FabrikamFiber-Express Connection String used in web.config by the application to access the database." defaultValue="data source=.;Integrated Security=true; Initial Catalog=FabrikamFiber-Express" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\agent1\\newwork\\1165662a\\AzureProj\\Fabrikam\.CallCenter\.New\\FabrikamFiber\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='FabrikamFiber-Express']/@connectionString" />
+  </parameter>
+  <!--<parameter name="FabrikamFiber-DataWarehouse-Web.config Connection String" description="FabrikamFiber-DataWarehouse Connection String used in web.config by the application to access the database." defaultValue="data source=.;User Id=sa; Password=Passw0rd; Initial Catalog=FabrikamFiber-Express" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\agent1\\newwork\\1165662a\\AzureProj\\Fabrikam\.CallCenter\.New\\FabrikamFiber\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='FabrikamFiber-DataWarehouse']/@connectionString" />
+  </parameter>-->
+</parameters>

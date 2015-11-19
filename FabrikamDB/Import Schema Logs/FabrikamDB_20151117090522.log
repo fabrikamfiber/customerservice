@@ -1,0 +1,10 @@
+11/17/2015 2:35:22 PM	This log contains information about the import schema operation into project 'FabrikamDB' on computer 'AMBRISHM' by user 'ambrishm'.
+11/17/2015 2:35:22 PM	Deserializing model
+11/17/2015 2:35:23 PM	Resolving model
+11/17/2015 2:35:23 PM	Visiting imported model for types
+11/17/2015 2:35:23 PM	Scanning project for duplicate elements
+11/17/2015 2:35:23 PM	Finished duplicate element processing
+11/17/2015 2:35:24 PM	Processing extra files
+11/17/2015 2:35:24 PM	Finished importing Data-tier Application file.
+11/17/2015 2:35:24 PM	A summary of the import was saved to the following location: C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamDB\Import Schema Logs\FabrikamDB_20151117090522.log
+11/17/2015 2:35:24 PM	Click Finish to continue...

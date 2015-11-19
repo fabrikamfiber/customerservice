@@ -1,0 +1,29 @@
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamDB\bin\Debug\FabrikamDB.dacpac
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamDB\obj\Debug\Model.xml
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamDB\obj\Debug\refactor.xml
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamDB\obj\Debug\postdeploy.sql
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamDB\obj\Debug\predeploy.sql
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamDB\obj\Debug\FabrikamDB.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamDB\obj\Debug\FabrikamDB.pdb
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamDB\bin\Debug\FabrikamDB.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamDB\bin\Debug\FabrikamDB.pdb
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamDB\bin\Debug\FabrikamDB.dacpac
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamDB\bin\Debug\Publish\FabrikamDB.publish.xml
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamDB\bin\Debug\FabrikamDB.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamDB\bin\Debug\FabrikamDB.pdb
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamDB\obj\Debug\Model.xml
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamDB\obj\Debug\refactor.xml
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamDB\obj\Debug\postdeploy.sql
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamDB\obj\Debug\predeploy.sql
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamDB\obj\Debug\FabrikamDB.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamDB\obj\Debug\FabrikamDB.pdb
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamDB\bin\Debug\FabrikamDB.dacpac
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamDB\bin\Debug\Publish\FabrikamDB.publish.xml
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamDB\bin\Debug\FabrikamDB.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamDB\bin\Debug\FabrikamDB.pdb
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamDB\obj\Debug\Model.xml
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamDB\obj\Debug\refactor.xml
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamDB\obj\Debug\postdeploy.sql
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamDB\obj\Debug\predeploy.sql
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamDB\obj\Debug\FabrikamDB.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamDB\obj\Debug\FabrikamDB.pdb

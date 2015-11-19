@@ -1,0 +1,54 @@
+{
+  "storageAccountName": {
+    "value": "fabrikamcs1"
+  },
+  "dnsNameForLBIP": {
+    "value": "fabrikamcs1"
+  },
+  "vmNamePrefix": {
+    "value": "Fabmktg"
+  },
+  "nvmNamePrefix": {
+    "value": "Test"
+  },  
+  "lbName": {
+    "value": "fabrikamcs1"
+  },    
+   "imagePublisher": {
+    "value": "MicrosoftSQLServer"
+  },
+   "imageOffer": {
+    "value": "SQL2014SP1-WS2012R2"
+  },  
+   "imageSKU": {
+    "value": "Standard"
+  },  
+     "imagePublisher2": {
+    "value": "MicrosoftSQLServer"
+  },
+   "imageOffer2": {
+    "value": "SQL2014SP1-WS2012R2"
+  },  
+   "imageSKU2": {
+    "value": "Standard"
+  },  
+   "azureKeyVaultResourceGroup": {
+    "value": "FabrikamVault"
+  },    
+  "azureKeyVaultName": {
+    "value": "fabmktg"
+  },
+  "SecretId": {
+    "value": "https://fabmktg.vault.azure.net:443/secrets/fabmktg/f371ecaec4404b38b98f333efe6cacd4"
+  },
+    "vmSize": {
+    "value": "Standard_A4"
+  },
+    "adminUsername": {
+    "value": "vmuser"
+  },
+  "adminPassword": {
+    "value": "Password~1"
+  }
+}
+

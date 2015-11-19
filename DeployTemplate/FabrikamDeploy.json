@@ -1,0 +1,584 @@
+{
+    "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "storageAccountName": {
+            "type": "string",
+            "defaultValue": "nikhilkustowinrm8"
+        },
+        "adminUsername": {
+            "type": "string",
+            "metadata": {
+              "description": "Admin username"
+            }
+        },
+        "adminPassword": {
+            "type": "securestring",
+            "metadata": {
+              "description": "Admin password"
+            }
+        },
+        "dnsNameforLBIP": {
+            "type": "string",
+            "defaultValue": "uniqueDnsNameforLBIP"
+        },
+        "vmNamePrefix": {
+            "type": "string",
+            "defaultValue": "myVM"
+        },
+		"nvmNamePrefix": {
+            "type": "string",
+            "defaultValue": "mynewVM"
+        },
+        "lbName": {
+            "type": "string",
+            "defaultValue": "myLB"
+        },
+        "nicNamePrefix": {
+            "type": "string",
+            "defaultValue": "nic"
+        },
+		"nicNamePrefixN": {
+            "type": "string",
+            "defaultValue": "nicN"
+        },
+        "publicIPAddressName": {
+            "type": "string",
+            "defaultValue": "FFPublicIP"
+        },
+        "vnetName": {
+            "type": "string",
+            "defaultValue": "FFVNET"
+        },
+        "azureKeyVaultResourceGroup": {
+            "type": "string",
+            "defaultValue": "FabrikamFiber"
+        },
+        "azureKeyVaultName": {
+            "type": "string",
+            "defaultValue": "azureKeyVaultName"
+        },
+        "SecretId": {
+            "type": "string",
+            "defaultValue": "SecretId"
+        },
+        "imagePublisher": {
+            "type": "string",
+            "defaultValue": "MicrosoftWindowsServer",
+            "metadata": {
+                 "description": "Image Publisher"
+            }
+        },
+         "imageOffer": {
+            "type": "string",
+            "defaultValue": "WindowsServer",
+            "metadata": {
+                "description": "Image Offer"
+            }
+        },
+        "imageSKU": {
+            "type": "string",
+            "defaultValue": "2012-R2-Datacenter",
+            "metadata": {
+                "description": "Image SKU"
+            }
+        },
+		
+		    "imagePublisher2": {
+            "type": "string",
+            "defaultValue": "MicrosoftWindowsServer",
+            "metadata": {
+                 "description": "Image Publisher"
+            }
+        },
+         "imageOffer2": {
+            "type": "string",
+            "defaultValue": "WindowsServer",
+            "metadata": {
+                "description": "Image Offer"
+            }
+        },
+        "imageSKU2": {
+            "type": "string",
+            "defaultValue": "2012-R2-Datacenter",
+            "metadata": {
+                "description": "Image SKU"
+            }
+        },
+	
+        "vmSize": {
+            "type": "string",
+            "defaultValue": "Standard_A1",
+            "allowedValues": [
+                "Standard_A0",
+                "Standard_A1",
+                "Standard_A2",
+                "Standard_A3",
+                "Standard_A4"
+            ]
+        }
+    },
+    "variables": {
+        "storageAccountType": "Standard_LRS",
+        "vmStorageAccountContainerName": "vhds",
+        "availabilitySetName": "myAvSet",
+        "addressPrefix": "10.0.0.0/16",
+        "subnetName": "Subnet-1",
+        "subnetPrefix": "10.0.0.0/24",
+        "publicIPAddressType": "Dynamic",
+        "vnetID": "[resourceId('Microsoft.Network/virtualNetworks',parameters('vnetName'))]",
+        "subnetRef": "[concat(variables('vnetID'),'/subnets/',variables ('subnetName'))]",
+        "publicIPAddressID": "[resourceId('Microsoft.Network/publicIPAddresses',parameters('publicIPAddressName'))]",
+        "lbID": "[resourceId('Microsoft.Network/loadBalancers',parameters('lbName'))]",
+        "numberOfInstances": 1,
+        "frontEndIPConfigID": "[concat(variables('lbID'),'/frontendIPConfigurations/loadBalancerFrontend')]",
+        "lbPoolID": "[concat(variables('lbID'),'/backendAddressPools/LoadBalancerBackend')]",
+        "lbProbeID": "[concat(variables('lbID'),'/probes/tcpProbe')]"
+    },
+    "resources": [
+        {
+            "type": "Microsoft.Storage/storageAccounts",
+            "name": "[parameters('storageAccountName')]",
+            "apiVersion": "2015-05-01-preview",
+            "location": "[resourceGroup().location]",
+            "properties": {
+                "accountType": "[variables('storageAccountType')]"
+            }
+        },
+        {
+            "type": "Microsoft.Compute/availabilitySets",
+            "name": "[variables('availabilitySetName')]",
+            "apiVersion": "2015-05-01-preview",
+            "location": "[resourceGroup().location]",
+            "properties": { }
+        },
+        {
+            "apiVersion": "2015-05-01-preview",
+            "type": "Microsoft.Network/publicIPAddresses",
+            "name": "[parameters('publicIPAddressName')]",
+            "location": "[resourceGroup().location]",
+            "properties": {
+                "publicIPAllocationMethod": "[variables('publicIPAddressType')]",
+                "dnsSettings": {
+                    "domainNameLabel": "[parameters('dnsNameforLBIP')]"
+                }
+            }
+        },
+        {
+            "apiVersion": "2015-05-01-preview",
+            "type": "Microsoft.Network/virtualNetworks",
+            "name": "[parameters('vnetName')]",
+            "location": "[resourceGroup().location]",
+            "properties": {
+                "addressSpace": {
+                    "addressPrefixes": [
+                        "[variables('addressPrefix')]"
+                    ]
+                },
+                "subnets": [
+                    {
+                        "name": "[variables('subnetName')]",
+                        "properties": {
+                            "addressPrefix": "[variables('subnetPrefix')]"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "apiVersion": "2015-05-01-preview",
+            "type": "Microsoft.Network/networkInterfaces",
+            "name": "[concat(parameters('nicNamePrefix'), copyindex())]",
+            "location": "[resourceGroup().location]",
+            "copy": {
+                "name": "nicLoop",
+                "count": "[variables('numberOfInstances')]"
+            },
+            "dependsOn": [
+                "[concat('Microsoft.Network/virtualNetworks/', parameters('vnetName'))]",
+                "[concat('Microsoft.Network/loadBalancers/', parameters('lbName'))]"
+            ],
+            "properties": {
+                "ipConfigurations": [
+                    {
+                        "name": "ipconfig1",
+                        "properties": {
+                            "privateIPAllocationMethod": "Dynamic",
+                            "subnet": {
+                                "id": "[variables('subnetRef')]"
+                            },
+                             "loadBalancerBackendAddressPools": [
+                            {
+                                "id": "[concat(variables('lbID'), '/backendAddressPools/LoadBalancerBackend')]"
+                            }
+                        ],
+                        "loadBalancerInboundNatRules": [
+                            {
+                                "id": "[concat(variables('lbID'),'/inboundNatRules/RDP-VM', copyindex())]"
+                            },
+							{
+                                "id": "[concat(variables('lbID'),'/inboundNatRules/WINRM-VM', copyindex())]"
+                            }
+                        ]
+                        }
+
+                    }
+                ]
+            }
+        },
+        {
+            "apiVersion": "2015-05-01-preview",
+            "type": "Microsoft.Network/networkInterfaces",
+            "name": "[concat(parameters('nicNamePrefixN'), copyindex())]",
+            "location": "[resourceGroup().location]",
+            "copy": {
+                "name": "nicLoop",
+                "count": "[variables('numberOfInstances')]"
+            },
+            "dependsOn": [
+                "[concat('Microsoft.Network/virtualNetworks/', parameters('vnetName'))]",
+                "[concat('Microsoft.Network/loadBalancers/', parameters('lbName'))]"
+            ],
+            "properties": {
+                "ipConfigurations": [
+                    {
+                        "name": "ipconfig2",
+                        "properties": {
+                            "privateIPAllocationMethod": "Dynamic",
+                            "subnet": {
+                                "id": "[variables('subnetRef')]"
+                            },
+                             "loadBalancerBackendAddressPools": [
+                            {
+                                "id": "[concat(variables('lbID'), '/backendAddressPools/LoadBalancerBackend')]"
+                            }
+                        ],
+                        "loadBalancerInboundNatRules": [                            
+                            {
+                                "id": "[concat(variables('lbID'),'/inboundNatRules/NRDP-VM', copyindex())]"
+                            },
+							{
+                                "id": "[concat(variables('lbID'),'/inboundNatRules/NWINRM-VM', copyindex())]"
+                            }
+                        ]
+                        }
+
+                    }
+                ]
+            }
+        },
+        {
+            "apiVersion": "2015-05-01-preview",
+            "name": "[parameters('lbName')]",
+            "type": "Microsoft.Network/loadBalancers",
+            "location": "[resourceGroup().location]",
+            "dependsOn": [
+                "[concat('Microsoft.Network/publicIPAddresses/', parameters('publicIPAddressName'))]"
+            ],
+            "properties": {
+                "frontendIPConfigurations": [
+                    {
+                        "name": "LoadBalancerFrontend",
+                        "properties": {
+                            "publicIPAddress": {
+                                "id": "[variables('publicIPAddressID')]"
+                            }
+                        }
+                    }
+                ],
+                "backendAddressPools": [
+                    {
+                        "name": "LoadBalancerBackend"
+
+                    }
+                ],
+                "inboundNatRules": [
+                    {
+                        "name": "RDP-VM0",
+                        "properties": {
+                            "frontendIPConfiguration":
+                                {
+                                    "id": "[variables('frontEndIPConfigID')]"
+                                },
+                            "protocol": "tcp",
+                            "frontendPort": 50001,
+                            "backendPort": 3389,
+                            "enableFloatingIP": false
+                        }
+                    },
+                    {
+                        "name": "RDP-VM1",
+                        "properties": {
+                            "frontendIPConfiguration":
+                                {
+                                    "id": "[variables('frontEndIPConfigID')]"
+                                },
+                            "protocol": "tcp",
+                            "frontendPort": 50002,
+                            "backendPort": 3389,
+                            "enableFloatingIP": false
+                        }
+                    },
+					{
+                        "name": "WINRM-VM0",
+                        "properties": {
+                            "frontendIPConfiguration":
+                                {
+                                    "id": "[variables('frontEndIPConfigID')]"
+                                },
+                            "protocol": "tcp",
+                            "frontendPort": 40001,
+                            "backendPort": 5986,
+                            "enableFloatingIP": false
+                        }
+                    },
+                    {
+                        "name": "WINRM-VM1",
+                        "properties": {
+                            "frontendIPConfiguration":
+                                {
+                                    "id": "[variables('frontEndIPConfigID')]"
+                                },
+                            "protocol": "tcp",
+                            "frontendPort": 40002,
+                            "backendPort": 5986,
+                            "enableFloatingIP": false
+                        }
+                    },
+                    {
+                        "name": "NRDP-VM0",
+                        "properties": {
+                            "frontendIPConfiguration":
+                                {
+                                    "id": "[variables('frontEndIPConfigID')]"
+                                },
+                            "protocol": "tcp",
+                            "frontendPort": 50003,
+                            "backendPort": 3389,
+                            "enableFloatingIP": false
+                        }
+                    },
+                    {
+                        "name": "NRDP-VM1",
+                        "properties": {
+                            "frontendIPConfiguration":
+                                {
+                                    "id": "[variables('frontEndIPConfigID')]"
+                                },
+                            "protocol": "tcp",
+                            "frontendPort": 50004,
+                            "backendPort": 3389,
+                            "enableFloatingIP": false
+                        }
+                    },
+					{
+                        "name": "NWINRM-VM0",
+                        "properties": {
+                            "frontendIPConfiguration":
+                                {
+                                    "id": "[variables('frontEndIPConfigID')]"
+                                },
+                            "protocol": "tcp",
+                            "frontendPort": 40003,
+                            "backendPort": 5986,
+                            "enableFloatingIP": false
+                        }
+                    },
+                    {
+                        "name": "NWINRM-VM1",
+                        "properties": {
+                            "frontendIPConfiguration":
+                                {
+                                    "id": "[variables('frontEndIPConfigID')]"
+                                },
+                            "protocol": "tcp",
+                            "frontendPort": 40004,
+                            "backendPort": 5986,
+                            "enableFloatingIP": false
+                        }
+                    }
+                ],
+                "loadBalancingRules": [
+                    {
+                        "name": "LBRule",
+                        "properties": {
+                            "frontendIPConfiguration": {
+                                "id": "[variables('frontEndIPConfigID')]"
+                            },
+                            "backendAddressPool": {
+                                "id": "[variables('lbPoolID')]"
+                            },
+                            "protocol": "tcp",
+                            "frontendPort": 80,
+                            "backendPort": 80,
+                            "enableFloatingIP": false,
+                            "idleTimeoutInMinutes": 5,
+                            "probe": {
+                                "id": "[variables('lbProbeID')]"
+                            }
+                        }
+                    }
+                ],
+                "probes": [
+                    {
+                        "name": "tcpProbe",
+                        "properties": {
+                            "protocol": "tcp",
+                            "port": 80,
+                            "intervalInSeconds": "5",
+                            "numberOfProbes": "2"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "apiVersion": "2015-05-01-preview",
+            "type": "Microsoft.Compute/virtualMachines",
+            "name": "[concat(parameters('vmNamePrefix'), copyindex())]",
+            "copy": {
+                "name": "virtualMachineLoop",
+                "count": "[variables('numberOfInstances')]"
+            },
+            "location": "[resourceGroup().location]",
+            "dependsOn": [
+                "[concat('Microsoft.Storage/storageAccounts/', parameters('storageAccountName'))]",
+                "[concat('Microsoft.Network/networkInterfaces/', parameters('nicNamePrefix'), copyindex())]",
+                "[concat('Microsoft.Compute/availabilitySets/', variables('availabilitySetName'))]"
+            ],
+            "tags": {
+                "Role": "App"
+            },
+            "properties": {
+                "availabilitySet": {
+                    "id": "[resourceId('Microsoft.Compute/availabilitySets',variables('availabilitySetName'))]"
+                },
+                "hardwareProfile": {
+                    "vmSize": "[parameters('vmSize')]"
+                },
+                "osProfile": {
+                    "computername": "[concat(parameters('vmNamePrefix'), copyIndex())]",
+                    "adminUsername": "[parameters('adminUsername')]",
+                    "adminPassword": "[parameters('adminPassword')]",
+                    "secrets": [{
+                        "sourceVault": {
+                            "id": "[resourceId(parameters('azureKeyVaultResourceGroup'), 'Microsoft.KeyVault/vaults', parameters('azureKeyVaultName'))]"
+                        },
+                        "vaultCertificates": [{
+                            "certificateUrl": "[parameters('SecretId')]",
+                            "certificateStore": "My"
+                        }]
+                    }],
+                    "windowsConfiguration": {
+                        "provisionVMAgent": "true",      
+                        "winRM": {
+						    "listeners": [
+                                {
+                                    "protocol": "Https",
+                                    "certificateUrl": "[parameters('SecretId')]"
+                                }
+                        ]},       
+                        "enableAutomaticUpdates": "true"
+                    },
+                },
+                "storageProfile": {
+                  "imageReference": {
+                      "publisher": "[parameters('imagePublisher')]",
+                      "offer": "[parameters('imageOffer')]",
+                      "sku" : "[parameters('imageSKU')]",
+                      "version":"latest"
+                  },
+                  "osDisk" : {
+                      "name": "osdisk",
+                      "vhd": {
+                         "uri": "[concat('http://',parameters('storageAccountName'),'.blob.core.windows.net/vhds/','osdisk', copyindex(), '.vhd')]"
+                      },
+                      "caching": "ReadWrite",
+                      "createOption": "FromImage"
+                  }
+                },
+                "networkProfile": {
+                    "networkInterfaces": [
+                        {
+                            "id": "[resourceId('Microsoft.Network/networkInterfaces',concat(parameters('nicNamePrefix'),copyindex()))]"
+                        }
+                    ]
+                }
+            }
+        },
+		{
+            "apiVersion": "2015-05-01-preview",
+            "type": "Microsoft.Compute/virtualMachines",
+            "name": "[concat(parameters('nvmNamePrefix'), copyindex())]",
+            "copy": {
+                "name": "virtualMachineLoop",
+                "count": "[variables('numberOfInstances')]"
+            },
+            "location": "[resourceGroup().location]",
+            "dependsOn": [
+                "[concat('Microsoft.Storage/storageAccounts/', parameters('storageAccountName'))]",
+                "[concat('Microsoft.Network/networkInterfaces/', parameters('nicNamePrefixN'), copyindex())]",
+                "[concat('Microsoft.Compute/availabilitySets/', variables('availabilitySetName'))]"
+            ],
+            "tags": {
+                "Role": "Test"
+            },
+            "properties": {
+                "availabilitySet": {
+                    "id": "[resourceId('Microsoft.Compute/availabilitySets',variables('availabilitySetName'))]"
+                },
+                "hardwareProfile": {
+                    "vmSize": "[parameters('vmSize')]"
+                },
+                "osProfile": {
+                    "computername": "[concat(parameters('nvmNamePrefix'), copyIndex())]",
+                    "adminUsername": "[parameters('adminUsername')]",
+                    "adminPassword": "[parameters('adminPassword')]",
+                    "secrets": [{
+                        "sourceVault": {
+                            "id": "[resourceId(parameters('azureKeyVaultResourceGroup'), 'Microsoft.KeyVault/vaults', parameters('azureKeyVaultName'))]"
+                        },
+                        "vaultCertificates": [{
+                            "certificateUrl": "[parameters('SecretId')]",
+                            "certificateStore": "My"
+                        }]
+                    }],
+                    "windowsConfiguration": {
+                        "provisionVMAgent": "true",      
+                        "winRM": {
+						    "listeners": [
+                                {
+                                    "protocol": "Https",
+                                    "certificateUrl": "[parameters('SecretId')]"
+                                }
+                        ]},       
+                        "enableAutomaticUpdates": "true"
+                    },
+                },
+                "storageProfile": {
+                  "imageReference": {
+                      "publisher": "[parameters('imagePublisher2')]",
+                      "offer": "[parameters('imageOffer2')]",
+                      "sku" : "[parameters('imageSKU2')]",
+                      "version":"latest"
+                  },
+                  "osDisk" : {
+                      "name": "osdisk",
+                      "vhd": {
+                         "uri": "[concat('http://',parameters('storageAccountName'),'.blob.core.windows.net/vhds/','osdiskN', copyindex(), '.vhd')]"
+                      },
+                      "caching": "ReadWrite",
+                      "createOption": "FromImage"
+                  }
+                },
+                "networkProfile": {
+                    "networkInterfaces": [
+                        {
+                            "id": "[resourceId('Microsoft.Network/networkInterfaces',concat(parameters('nicNamePrefixN'),copyindex()))]"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

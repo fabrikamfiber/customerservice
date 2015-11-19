@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="FabrikamFiber-Express-Web.config Connection String" description="FabrikamFiber-Express Connection String used in web.config by the application to access the database." defaultValue="data source=.\SQLExpress;User Id=sa; Password=Passw0rd; Initial Catalog=FabrikamFiber-Express" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ambrishm\\Source\\Workspaces\\AzureProj\\Fabrikam\.CallCenter\.New\\FabrikamFiber\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='FabrikamFiber-Express']/@connectionString" />
+  </parameter>
+  <parameter name="FabrikamFiber-DataWarehouse-Web.config Connection String" description="FabrikamFiber-DataWarehouse Connection String used in web.config by the application to access the database." defaultValue="data source=.\SQLExpress;User Id=sa; Password=Passw0rd;Initial Catalog=FabrikamFiber-Express" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ambrishm\\Source\\Workspaces\\AzureProj\\Fabrikam\.CallCenter\.New\\FabrikamFiber\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='FabrikamFiber-DataWarehouse']/@connectionString" />
+  </parameter>
+  <parameter name="FabrikamFiber.DAL.Data.FabrikamFiberWebContext-Web.config Connection String" description="FabrikamFiber.DAL.Data.FabrikamFiberWebContext Connection String used in web.config by the application to access the database." defaultValue="FabrikamFiber.DAL.Data.FabrikamFiberWebContext_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ambrishm\\Source\\Workspaces\\AzureProj\\Fabrikam\.CallCenter\.New\\FabrikamFiber\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='FabrikamFiber.DAL.Data.FabrikamFiberWebContext']/@connectionString" />
+  </parameter>
+</parameters>

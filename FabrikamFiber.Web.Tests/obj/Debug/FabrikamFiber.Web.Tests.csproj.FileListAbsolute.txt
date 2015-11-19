@@ -1,0 +1,354 @@
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\xunit.runner.utility.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\css\general_styles_2011.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\css\layout_2011.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\css\miniml_reset_2011.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\css\tablet.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\css\webfonts.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-bold-webfont.svg
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-light-webfont.svg
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-webfont.svg
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\ajax-loader.gif
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\bg_tile.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\favicon.ico
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\icon_clock.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\icon_ticket.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\icon_user.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\logo.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\logo_text.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\maps\map1.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\userphoto_kensanchez.jpg
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\style.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fullcalendar.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fullcalendar.print.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\buttons.gif
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\button_big_bg.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\button_normal_bg.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\serviceman.jpg
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\toolbar.gif
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\jquery.cleditor.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_glass_65_ffffff_1x400.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_glass_75_dadada_1x400.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-icons_222222_256x240.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-icons_2e83ff_256x240.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-icons_454545_256x240.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-icons_888888_256x240.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-icons_cd0a0a_256x240.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.accordion.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.all.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.autocomplete.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.base.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.button.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.core.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.datepicker.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.dialog.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.progressbar.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.resizable.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.selectable.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.slider.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.tabs.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.theme.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_flat_0_aaaaaa_40x100.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_flat_55_fbec88_40x100.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_glass_75_d0e5f5_1x400.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_glass_85_dfeffc_1x400.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_glass_95_fef1ec_1x400.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_gloss-wave_55_5c9ccc_500x100.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_inset-hard_100_f5f8f9_1x100.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_inset-hard_100_fcfdfd_1x100.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_217bc0_256x240.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_2e83ff_256x240.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_469bdd_256x240.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_6da8d5_256x240.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_cd0a0a_256x240.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_d8e7f3_256x240.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_f9bd01_256x240.png
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\jquery-ui.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\Site.css
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-bold-webfont.eot
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-bold-webfont.ttf
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-bold-webfont.woff
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-light-webfont.eot
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-light-webfont.ttf
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-light-webfont.woff
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-webfont.eot
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-webfont.ttf
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-webfont.woff
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.Web.Tests.dll.config
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.Web.Tests.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.Web.Tests.pdb
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.DAL.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.Web.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Ninject.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\nunit.framework.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\nunit.mocks.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\pnunit.framework.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\WebActivator.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\xunit.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\xunit.extensions.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.DAL.pdb
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.Web.pdb
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\xunit.xml
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\xunit.extensions.xml
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.pdb
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\obj\Debug\FabrikamFiber.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\obj\Debug\FabrikamFiber.Web.Tests.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\obj\Debug\FabrikamFiber.Web.Tests.pdb
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\xunit.runner.utility.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\css\general_styles_2011.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\css\layout_2011.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\css\miniml_reset_2011.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\css\tablet.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\css\webfonts.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-bold-webfont.svg
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-light-webfont.svg
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-webfont.svg
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\ajax-loader.gif
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\bg_tile.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\favicon.ico
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\icon_clock.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\icon_ticket.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\icon_user.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\logo.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\logo_text.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\maps\map1.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\userphoto_kensanchez.jpg
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\style.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fullcalendar.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fullcalendar.print.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\buttons.gif
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\button_big_bg.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\button_normal_bg.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\serviceman.jpg
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\images\toolbar.gif
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\jquery.cleditor.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_glass_65_ffffff_1x400.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_glass_75_dadada_1x400.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-icons_222222_256x240.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-icons_2e83ff_256x240.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-icons_454545_256x240.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-icons_888888_256x240.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-icons_cd0a0a_256x240.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.accordion.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.all.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.autocomplete.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.base.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.button.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.core.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.datepicker.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.dialog.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.progressbar.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.resizable.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.selectable.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.slider.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.tabs.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.theme.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_flat_0_aaaaaa_40x100.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_flat_55_fbec88_40x100.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_glass_75_d0e5f5_1x400.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_glass_85_dfeffc_1x400.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_glass_95_fef1ec_1x400.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_gloss-wave_55_5c9ccc_500x100.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_inset-hard_100_f5f8f9_1x100.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_inset-hard_100_fcfdfd_1x100.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_217bc0_256x240.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_2e83ff_256x240.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_469bdd_256x240.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_6da8d5_256x240.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_cd0a0a_256x240.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_d8e7f3_256x240.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_f9bd01_256x240.png
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\jquery-ui.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\Site.css
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-bold-webfont.eot
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-bold-webfont.ttf
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-bold-webfont.woff
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-light-webfont.eot
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-light-webfont.ttf
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-light-webfont.woff
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-webfont.eot
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-webfont.ttf
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-webfont.woff
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.Web.Tests.dll.config
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.Web.Tests.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.Web.Tests.pdb
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.DAL.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.Web.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Ninject.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\nunit.framework.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\nunit.mocks.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\pnunit.framework.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\WebActivator.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\xunit.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\xunit.extensions.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.DAL.pdb
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.Web.pdb
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\xunit.xml
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\xunit.extensions.xml
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.pdb
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\obj\Debug\FabrikamFiber.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\obj\Debug\FabrikamFiber.Web.Tests.dll
+C:\Users\ambrishm\Source\Repos\Deployment Service\Fabrikam.CallCenter.New\FabrikamFiber.Web.Tests\obj\Debug\FabrikamFiber.Web.Tests.pdb
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\xunit.runner.utility.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\css\general_styles_2011.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\css\layout_2011.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\css\miniml_reset_2011.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\css\tablet.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\css\webfonts.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-bold-webfont.svg
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-light-webfont.svg
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-webfont.svg
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\images\ajax-loader.gif
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\images\bg_tile.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\images\favicon.ico
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\images\icon_clock.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\images\icon_ticket.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\images\icon_user.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\images\logo.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\images\logo_text.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\images\maps\map1.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\images\userphoto_kensanchez.jpg
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\style.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\fullcalendar.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\fullcalendar.print.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\images\buttons.gif
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\images\button_big_bg.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\images\button_normal_bg.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\images\serviceman.jpg
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\images\toolbar.gif
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\jquery.cleditor.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_glass_65_ffffff_1x400.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_glass_75_dadada_1x400.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-icons_222222_256x240.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-icons_2e83ff_256x240.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-icons_454545_256x240.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-icons_888888_256x240.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\images\ui-icons_cd0a0a_256x240.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.accordion.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.all.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.autocomplete.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.base.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.button.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.core.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.datepicker.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.dialog.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.progressbar.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.resizable.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.selectable.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.slider.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.tabs.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\base\jquery.ui.theme.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_flat_0_aaaaaa_40x100.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_flat_55_fbec88_40x100.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_glass_75_d0e5f5_1x400.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_glass_85_dfeffc_1x400.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_glass_95_fef1ec_1x400.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_gloss-wave_55_5c9ccc_500x100.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_inset-hard_100_f5f8f9_1x100.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-bg_inset-hard_100_fcfdfd_1x100.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_217bc0_256x240.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_2e83ff_256x240.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_469bdd_256x240.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_6da8d5_256x240.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_cd0a0a_256x240.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_d8e7f3_256x240.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\images\ui-icons_f9bd01_256x240.png
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\themes\redmond\jquery-ui.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\Site.css
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-bold-webfont.eot
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-bold-webfont.ttf
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-bold-webfont.woff
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-light-webfont.eot
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-light-webfont.ttf
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-light-webfont.woff
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-webfont.eot
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-webfont.ttf
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Content\fonts\segoewp-webfont.woff
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.Web.Tests.dll.config
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.Web.Tests.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.Web.Tests.pdb
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.DAL.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.Web.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Ninject.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\nunit.framework.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\nunit.mocks.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\pnunit.framework.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\WebActivator.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\xunit.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\xunit.extensions.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.DAL.pdb
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\FabrikamFiber.Web.pdb
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\xunit.xml
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\xunit.extensions.xml
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.pdb
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\obj\Debug\FabrikamFiber.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\obj\Debug\FabrikamFiber.Web.Tests.dll
+C:\Users\ambrishm\Source\Workspaces\TestKing123\Fabrikam.CustomerService\FabrikamFiber.Web.Tests\obj\Debug\FabrikamFiber.Web.Tests.pdb

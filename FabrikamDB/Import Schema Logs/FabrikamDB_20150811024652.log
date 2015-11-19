@@ -1,0 +1,78 @@
+8/11/2015 8:16:52 PM	This log contains information about the import schema operation into project 'FabrikamDB' on computer 'AMBRISHM' by user 'ambrishm'.
+8/11/2015 8:16:53 PM	Import of database schema has started.
+8/11/2015 8:16:57 PM	Gathering database options
+8/11/2015 8:16:57 PM	Gathering users
+8/11/2015 8:16:57 PM	Gathering roles
+8/11/2015 8:16:57 PM	Gathering application roles
+8/11/2015 8:16:57 PM	Gathering role memberships
+8/11/2015 8:16:57 PM	Gathering filegroups
+8/11/2015 8:16:57 PM	Gathering full-text catalogs
+8/11/2015 8:16:57 PM	Gathering assemblies
+8/11/2015 8:16:57 PM	Gathering certificates
+8/11/2015 8:16:57 PM	Gathering asymmetric keys
+8/11/2015 8:16:57 PM	Gathering symmetric keys
+8/11/2015 8:16:57 PM	Gathering encrypted symmetric keys
+8/11/2015 8:16:57 PM	Gathering schemas
+8/11/2015 8:16:58 PM	Gathering XML schema collections
+8/11/2015 8:16:58 PM	Gathering user-defined data types
+8/11/2015 8:16:58 PM	Gathering user-defined types
+8/11/2015 8:16:58 PM	Gathering table types
+8/11/2015 8:16:58 PM	Gathering unique keys for table types
+8/11/2015 8:16:58 PM	Gathering primary keys for table types
+8/11/2015 8:16:58 PM	Gathering indexes for table types
+8/11/2015 8:16:58 PM	Gathering check constraints for table types
+8/11/2015 8:16:58 PM	Gathering default constraints for table types
+8/11/2015 8:16:58 PM	Gathering partition functions
+8/11/2015 8:16:58 PM	Gathering partition schemes
+8/11/2015 8:16:58 PM	Gathering functions
+8/11/2015 8:16:58 PM	Gathering encrypted functions
+8/11/2015 8:16:58 PM	Gathering aggregates
+8/11/2015 8:16:58 PM	Gathering procedures
+8/11/2015 8:16:58 PM	Gathering encrypted procedures
+8/11/2015 8:16:58 PM	Gathering tables
+8/11/2015 8:16:58 PM	Gathering primary keys
+8/11/2015 8:16:58 PM	Gathering unique constraints
+8/11/2015 8:16:58 PM	Gathering foreign keys
+8/11/2015 8:16:58 PM	Gathering default constraints
+8/11/2015 8:16:58 PM	Gathering check constraints
+8/11/2015 8:16:58 PM	Gathering views
+8/11/2015 8:16:58 PM	Gathering encrypted views
+8/11/2015 8:16:58 PM	Gathering indexes
+8/11/2015 8:16:58 PM	Gathering statistics
+8/11/2015 8:16:58 PM	Gathering full-text index stoplists
+8/11/2015 8:16:58 PM	Gathering search property lists
+8/11/2015 8:16:58 PM	Gathering search properties
+8/11/2015 8:16:58 PM	Gathering full-text indexes
+8/11/2015 8:16:58 PM	Gathering column store indexes
+8/11/2015 8:16:58 PM	Gathering spatial indexes
+8/11/2015 8:16:58 PM	Gathering XML indexes
+8/11/2015 8:16:58 PM	Gathering Selective XML indexes
+8/11/2015 8:16:58 PM	Gathering encrypted triggers
+8/11/2015 8:16:58 PM	Gathering triggers
+8/11/2015 8:16:58 PM	Gathering encrypted and clr ddl triggers
+8/11/2015 8:16:58 PM	Gathering ddl triggers
+8/11/2015 8:16:58 PM	Gathering synonyms
+8/11/2015 8:16:58 PM	Gathering defaults
+8/11/2015 8:16:58 PM	Gathering data constraint uddt bindings
+8/11/2015 8:16:58 PM	Gathering rules
+8/11/2015 8:16:58 PM	Gathering data constraint uddt bindings
+8/11/2015 8:16:58 PM	Gathering message types
+8/11/2015 8:16:58 PM	Gathering queues
+8/11/2015 8:16:58 PM	Gathering contracts
+8/11/2015 8:16:58 PM	Gathering services
+8/11/2015 8:16:58 PM	Gathering event notifications
+8/11/2015 8:16:58 PM	Gathering remote service bindings
+8/11/2015 8:16:58 PM	Gathering broker priorities
+8/11/2015 8:16:58 PM	Gathering signatures
+8/11/2015 8:16:58 PM	Gathering data compression options
+8/11/2015 8:16:58 PM	Gathering sequence types
+8/11/2015 8:16:58 PM	Gathering database permissions
+8/11/2015 8:16:58 PM	Gathering extended properties
+8/11/2015 8:16:58 PM	Gathering credentials
+8/11/2015 8:16:58 PM	Gathering logins
+8/11/2015 8:16:58 PM	Gathering server audits
+8/11/2015 8:16:59 PM	Scanning project for duplicate elements
+8/11/2015 8:16:59 PM	Finished duplicate element processing
+8/11/2015 8:16:59 PM	Finished importing database.
+8/11/2015 8:16:59 PM	A summary of the import was saved to the following location: C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamDB\Import Schema Logs\FabrikamDB_20150811024652.log
+8/11/2015 8:16:59 PM	Click Finish to continue...

@@ -1,0 +1,10 @@
+8/11/2015 8:29:37 PM	This log contains information about the import operation of the script 'dbo.Alerts.Table.sql' into project 'FabrikamDB' on computer 'AMBRISHM' by user'ambrishm.
+8/11/2015 8:29:37 PM	Started importing file: C:\Users\ambrishm\AppData\Local\Temp\tmp6D66.tmp 
+8/11/2015 8:29:37 PM	File name C:\Users\ambrishm\AppData\Local\Temp\tmp6D66.tmp (size: 13010)
+8/11/2015 8:29:37 PM	Parsing import script
+8/11/2015 8:29:38 PM	Total number of batches in script: 14
+8/11/2015 8:29:38 PM	Total number of statements in script: 0
+8/11/2015 8:29:38 PM	The script was successfully imported into the project.
+8/11/2015 8:29:38 PM	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+8/11/2015 8:29:38 PM	A summary of the import was saved to the following location: C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamDB\Import Script Logs\dbo_Alerts_Table_sql_20150811025937.log
+8/11/2015 8:29:38 PM	Click Finish to continue...

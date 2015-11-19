@@ -1,0 +1,6 @@
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.DAL\bin\Release\FabrikamFiber.DAL.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.DAL\bin\Release\FabrikamFiber.DAL.pdb
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.DAL\bin\Release\EntityFramework.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.DAL\obj\Release\FabrikamFiber.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.DAL\obj\Release\FabrikamFiber.DAL.dll
+C:\Users\ambrishm\Source\Workspaces\AzureProj\Fabrikam.CallCenter.New\FabrikamFiber.DAL\obj\Release\FabrikamFiber.DAL.pdb

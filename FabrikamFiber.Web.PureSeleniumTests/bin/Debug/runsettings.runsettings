@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <!-- Configurations that affect the Test Framework -->
+  <RunConfiguration>
+
+  </RunConfiguration>
+  
+  <TestRunParameters>
+    <Parameter name="webAppUrl" value="http://fabrikam-qa.azurewebsites.net" />
+  </TestRunParameters>
+
+  <!-- Adapter Specific sections -->
+  
+  <!-- MSTest adapter -->
+  <MSTest>
+    <MapInconclusiveToFailed>True</MapInconclusiveToFailed>
+    <CaptureTraceOutput>false</CaptureTraceOutput>
+    <DeleteDeploymentDirectoryAfterTestRunIsComplete>False</DeleteDeploymentDirectoryAfterTestRunIsComplete>
+    <DeploymentEnabled>False</DeploymentEnabled>
+  </MSTest> 
+</RunSettings>
