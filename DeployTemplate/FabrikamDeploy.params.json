@@ -2,7 +2,7 @@
   "storageAccountName": {
     "value": "fabrikamcs1"
   },
-  "dnsNameForLBIP": {
+  "lbName": {
     "value": "fabrikamcs1"
   },
   "vmNamePrefix": {

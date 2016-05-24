@@ -18,7 +18,7 @@
               "description": "Admin password"
             }
         },
-        "dnsNameforLBIP": {
+        "lbName": {
             "type": "string",
             "defaultValue": "uniqueDnsNameforLBIP"
         },
@@ -148,7 +148,7 @@
             "properties": {
                 "publicIPAllocationMethod": "[variables('publicIPAddressType')]",
                 "dnsSettings": {
-                    "domainNameLabel": "[parameters('dnsNameforLBIP')]"
+                    "domainNameLabel": "[parameters('lbName')]"
                 }
             }
         },
