@@ -2,7 +2,7 @@
   "storageAccountName": {
     "value": "fabrikamcs1"
   },
-  "lbName": {
+  "dnslbName": {
     "value": "fabrikamcs1"
   },
   "vmNamePrefix": {

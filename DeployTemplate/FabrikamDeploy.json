@@ -18,7 +18,7 @@
               "description": "Admin password"
             }
         },
-        "lbName": {
+        "dnslbName": {
             "type": "string",
             "defaultValue": "uniqueDnsNameforLBIP"
         },
@@ -117,7 +117,7 @@
         "vnetID": "[resourceId('Microsoft.Network/virtualNetworks',parameters('vnetName'))]",
         "subnetRef": "[concat(variables('vnetID'),'/subnets/',variables ('subnetName'))]",
         "publicIPAddressID": "[resourceId('Microsoft.Network/publicIPAddresses',parameters('publicIPAddressName'))]",
-        "lbID": "[resourceId('Microsoft.Network/loadBalancers',parameters('lbName'))]",
+        "lbID": "[resourceId('Microsoft.Network/loadBalancers',parameters('dnslbName'))]",
         "numberOfInstances": 1,
         "frontEndIPConfigID": "[concat(variables('lbID'),'/frontendIPConfigurations/loadBalancerFrontend')]",
         "lbPoolID": "[concat(variables('lbID'),'/backendAddressPools/LoadBalancerBackend')]",
