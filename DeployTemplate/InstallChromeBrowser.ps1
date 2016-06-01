@@ -1,6 +1,4 @@
-﻿  Configuration InstallBrowser
-{
-    param
+﻿    param
     (
         
     [Parameter]
@@ -17,6 +15,10 @@
         
     )
   
+
+
+  Configuration InstallBrowser
+{
   Import-DscResource -module xChrome
   Import-DscResource –ModuleName 'PSDesiredStateConfiguration' 
 

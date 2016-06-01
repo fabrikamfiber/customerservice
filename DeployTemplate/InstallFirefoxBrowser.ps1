@@ -1,7 +1,5 @@
 ﻿#Installs the specified version of Firefox in the specified language.
 
-Configuration InstallBrowser
-{
     param
     (
         
@@ -19,6 +17,9 @@ Configuration InstallBrowser
         
     )
     
+
+Configuration InstallBrowser
+{
     Import-DscResource -module xFirefox
     Import-DscResource –ModuleName 'PSDesiredStateConfiguration' 
  
