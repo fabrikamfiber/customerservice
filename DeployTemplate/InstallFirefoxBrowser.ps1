@@ -8,7 +8,7 @@ Configuration InstallBrowser
     [Parameter(Mandatory)]
     $VersionNumber,
         
-    [Parameter]
+    [Parameter(Mandatory)]
     $Language,
         
     [Parameter]
