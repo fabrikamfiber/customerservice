@@ -20,7 +20,7 @@
 
 Configuration InstallBrowser
 {
-    Import-DscResource -module xFirefox
+    Import-DscResource -ModuleName xFirefox
     Import-DscResource –ModuleName 'PSDesiredStateConfiguration' 
  
     
