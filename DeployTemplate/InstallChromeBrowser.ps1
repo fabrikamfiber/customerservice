@@ -19,7 +19,7 @@
 
   Configuration InstallBrowser
 {
-  Import-DscResource -module xChrome
+  Import-DscResource -ModuleName xChrome
   Import-DscResource –ModuleName 'PSDesiredStateConfiguration' 
 
       MSFT_xChrome chrome
