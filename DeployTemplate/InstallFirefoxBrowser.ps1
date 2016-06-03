@@ -30,7 +30,7 @@ Configuration InstallFirefox
     {
         Ensure = "Present"
         Path = $LocalPath
-        Name = "Mozilla Firefox " + $VersionNumber + " (" + $MachineBits + " " + $Language +")"
+        Name = "Mozilla Firefox"
         ProductId = ''
         Arguments = "/SilentMode"
         DependsOn = "[xRemoteFile]Downloader"
