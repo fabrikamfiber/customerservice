@@ -28,6 +28,7 @@ Configuration InstallBrowser
     {
     VersionNumber = $VersionNumber
     Language = $Language
+    OS = $OS
     LocalPath = $LocalPath
     }
 }
