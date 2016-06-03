@@ -9,7 +9,7 @@
     [Parameter(Mandatory)]
     $Language,
         
-    [Parameter]
+    [Parameter(Mandatory)]
     $OS,
         
     [Parameter(Mandatory)]
