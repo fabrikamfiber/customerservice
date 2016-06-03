@@ -1,5 +1,3 @@
-﻿#Installs the specified version of Firefox in the specified language.
-
     param
     (
         
@@ -9,28 +7,34 @@
     [Parameter(Mandatory)]
     $Language,
         
-    [Parameter(Mandatory)]
-    $OS,
-        
+       
     [Parameter(Mandatory)]
     $LocalPath        
         
     )
-    
 
-Configuration InstallBrowser
+
+Configuration InstallFirefox
 {
-    Import-DscResource -ModuleName xFirefox
-    Import-DscResource –ModuleName 'PSDesiredStateConfiguration' 
- 
     
-    MSFT_xFirefox firefox
+    Import-DscResource -ModuleName 'xPSDesiredStateConfiguration'
+    Import-DscResource -ModuleName 'PSDesiredStateConfiguration'
+
+    xRemoteFile Downloader
     {
-    VersionNumber = $VersionNumber
-    Language = $Language
-    OS = $OS
-    LocalPath = $LocalPath
+        Uri = "https://download.mozilla.org/?product=firefox-" + $VersionNumber + "&lang=" + $Language
+        DestinationPath = $LocalPath
+    }
+     
+    Package Installer
+    {
+        Ensure = "Present"
+        Path = $LocalPath
+        Name = "Mozilla Firefox " + $VersionNumber + " (" + $MachineBits + " " + $Language +")"
+        ProductId = ''
+        Arguments = "/SilentMode"
+        DependsOn = "[xRemoteFile]Downloader"
     }
 }
 
-InstallBrowser
+InstallFirefox
