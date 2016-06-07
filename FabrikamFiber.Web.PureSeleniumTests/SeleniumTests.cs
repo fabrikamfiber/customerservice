@@ -57,8 +57,8 @@ namespace FabrikamFiber.Web.PureSeleniumTests
             Selenium_CreateNewCustomerRecord();
         }
 
-        //[TestMethod]
-        //[Priority(0)]
+        [TestMethod]
+        [Priority(0)]
         public void Selenium_CreateNewCustomerRecordChrome()
         {
             this.driver = new ChromeDriver();
@@ -101,7 +101,6 @@ namespace FabrikamFiber.Web.PureSeleniumTests
 
         [TestMethod]
         [Priority(0)]
-        [Ignore]
         public void Selenium_VerifyDashboardPage_NavigatesToReportFireFox()
         {
             this.driver = new FirefoxDriver();
@@ -110,7 +109,6 @@ namespace FabrikamFiber.Web.PureSeleniumTests
 
         [TestMethod]
         [Priority(0)]
-        [Ignore]
         public void Selenium_VerifyDashboardPage_NavigatesToReportChrome()
         {
             this.driver = new ChromeDriver();
