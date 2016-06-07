@@ -68,7 +68,7 @@ Configuration InstallBrowsers
             }
         }
         TestScript = {
-            
+            Test-Path "C:\Program Files (x86)\Mozilla Firefox\browser"
         }
         SetScript ={
             Invoke-Item -Path $LocalPathFirefox\install.cmd
