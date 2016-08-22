@@ -69,7 +69,7 @@
             // Arrange
             var scheduleItems = new List<ScheduleItem>();
             scheduleItems.Add(new ScheduleItem { ServiceTicketID = 1 });
-            //mockScheduleItemRepo.SetReturnValue("get_All", scheduleItems.AsQueryable<ScheduleItem>());
+            mockScheduleItemRepo.SetReturnValue("get_All", scheduleItems.AsQueryable<ScheduleItem>());
             mockScheduleItemRepo.SetReturnValue("InsertOrUpdate", null);
             mockScheduleItemRepo.SetReturnValue("Delete", null);
             mockScheduleItemRepo.ExpectAndReturn("Save", null);
