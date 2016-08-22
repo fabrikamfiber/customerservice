@@ -59,6 +59,7 @@ namespace FabrikamFiber.Web.PureSeleniumTests
 
         [TestMethod]
         [Priority(0)]
+        [Ignore]
         public void Selenium_CreateNewCustomerRecordChrome()
         {
             this.driver = new ChromeDriver();
@@ -67,7 +68,6 @@ namespace FabrikamFiber.Web.PureSeleniumTests
 
         [TestMethod]
         [Priority(0)]
-        [Ignore]
         public void Selenium_CreateNewCustomerRecordIE()
         {
             this.driver = new InternetExplorerDriver();
@@ -84,6 +84,7 @@ namespace FabrikamFiber.Web.PureSeleniumTests
 
         [TestMethod]
         [Priority(0)]
+        [Ignore]
         public void Selenium_VerifyDashboardPageChrome()
         {
             this.driver = new ChromeDriver();
@@ -92,7 +93,6 @@ namespace FabrikamFiber.Web.PureSeleniumTests
 
         [TestMethod]
         [Priority(0)]
-        [Ignore]
         public void Selenium_VerifyDashboardPageIE()
         {
             this.driver = new InternetExplorerDriver();
@@ -101,27 +101,27 @@ namespace FabrikamFiber.Web.PureSeleniumTests
 
         [TestMethod]
         [Priority(0)]
-        public void Selenium_VerifyDashboardPage_NavigatesToReportFireFox()
+        public void Selenium_VerifyDashboardPage_VerifyProfileFireFox()
         {
             this.driver = new FirefoxDriver();
-            Selenium_VerifyDashboardPage_NavigatesToReport();
-        }
-
-        [TestMethod]
-        [Priority(0)]
-        public void Selenium_VerifyDashboardPage_NavigatesToReportChrome()
-        {
-            this.driver = new ChromeDriver();
-            Selenium_VerifyDashboardPage_NavigatesToReport();
+            Selenium_VerifyDashboardPage_VerifyProfile();
         }
 
         [TestMethod]
         [Priority(0)]
         [Ignore]
-        public void Selenium_VerifyDashboardPage_NavigatesToReportIE()
+        public void Selenium_VerifyDashboardPage_VerifyProfileChrome()
+        {
+            this.driver = new ChromeDriver();
+            Selenium_VerifyDashboardPage_VerifyProfile();
+        }
+
+        [TestMethod]
+        [Priority(0)]
+        public void Selenium_VerifyDashboardPage_VerifyProfileIE()
         {
             this.driver = new InternetExplorerDriver();
-            Selenium_VerifyDashboardPage_NavigatesToReport();
+            Selenium_VerifyDashboardPage_VerifyProfile();
         }
 
         private void Selenium_CreateNewCustomerRecord()
@@ -151,12 +151,11 @@ namespace FabrikamFiber.Web.PureSeleniumTests
             Assert.AreEqual(pageTitle, "Dashboard");
         }
 
-        private void Selenium_VerifyDashboardPage_NavigatesToReport()
+        private void Selenium_VerifyDashboardPage_VerifyProfile()
         {
             driver.Navigate().GoToUrl(baseURL);
-            driver.FindElement(By.CssSelector("ul.alerts li a span")).Click();
-            String pageTitle = driver.FindElement(By.CssSelector("#content h1")).Text.Trim();
-            Assert.AreEqual("Alerts", pageTitle,"Expected to be on Alerts page on click of Alerts, but ended up on " + pageTitle +" page.");
+            String pageTitle = driver.FindElement(By.CssSelector("#profile h1")).Text.Trim();
+            Assert.AreEqual(pageTitle, "Profile");
         }
 
         private bool IsElementPresent(By by)
